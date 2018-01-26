@@ -1,0 +1,18 @@
+
+
+.thumbnail {
+    position: relative;
+}
+
+.caption {
+    position: absolute;
+    bottom: 10%;
+    left: 5%;
+    width: 90%;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+}
+
